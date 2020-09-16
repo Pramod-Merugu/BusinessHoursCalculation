@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sp.ratings.BusinessHoursCalculation.BusinessHoursCalculationApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.316 s - in sp.ratings.BusinessHoursCalculation.BusinessHoursCalculationApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.313 s - in sp.ratings.BusinessHoursCalculation.BusinessHoursCalculationApplicationTests

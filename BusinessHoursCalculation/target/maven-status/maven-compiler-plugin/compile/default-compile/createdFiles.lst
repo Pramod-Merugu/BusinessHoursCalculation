@@ -1,2 +1,3 @@
-sp\ratings\Controller\BHCController.class
+sp\ratings\BusinessHoursCalculation\controller\BusinessHoursController.class
 sp\ratings\BusinessHoursCalculation\BusinessHoursCalculationApplication.class
+sp\ratings\myCont\BHCController.class
